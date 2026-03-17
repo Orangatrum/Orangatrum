@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Orangatrum
-- 👀 I’m interested in making games
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on small games
+- 👀 I’m interested in making big projects
+- 🌱 I’m currently learning JS/TS
+- 💞️ I’m looking to collaborate on big projects
 - 📫 How to reach me through my email quintontram10@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really like music
